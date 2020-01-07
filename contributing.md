@@ -1,3 +1,5 @@
+Contributing a Template
+====
 Templates are a great way to start an imdone board.  If they're helpful to you, then chances are, they'll be helpful to others.  
 
 To submit a template for approval, open a PR.
