@@ -13,7 +13,7 @@ This template is for people who want to keep their markdown notes and tasks in a
 - **What's Due?** list for cards that are due tomorrow before 6AM.
 - Tweet your cards using the tweet button.  
   
-**<a class="button is-imdone-primary" title="100 Days of Code" href="https://github.com/imdone/my-imdone-journal-single-file-template/archive/master.zip">Add project using this template</a>**
+**<a class="button is-imdone-primary" title="Single File Journal" href="https://github.com/imdone/my-imdone-journal-single-file-template/archive/master.zip">Add project using this template</a>**
 
 ----
 
