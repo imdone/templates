@@ -6,11 +6,4 @@ The 100 days of code template is designed to help you stay consistent in your 10
   
 ----
 
-## [Single File Journal](https://github.com/imdone/my-imdone-journal-single-file-template "Go to project on GitHub") | **<a class="button is-imdone-primary" title="Single File Journal" href="https://github.com/imdone/my-imdone-journal-single-file-template/archive/master.zip">+ Add project using this template</a>**
-This template is for people who want to keep their markdown notes and tasks in a single file.
-- **What's Due?** list for cards that are due tomorrow before 6AM.
-- Tweet your cards using the tweet button.
-
-----
-
 [Contribute a Template!](https://github.com/imdone/templates/blob/master/contributing.md)
